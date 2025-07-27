@@ -1,0 +1,138 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj
+<<
+/Length 1074
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(DHANISETTI RUPA DURGA) Tj
+0 -20 Td
+(B.Tech Computer Science \(AI\) Student) Tj
+0 -20 Td
+(Email: rupadhanisetti@gmail.com) Tj
+0 -20 Td
+(Phone: +91 8978707797) Tj
+0 -20 Td
+(LinkedIn: Rupa Dhanisetti) Tj
+
+0 -40 Td
+(OBJECTIVE) Tj
+0 -20 Td
+(Aspiring Computer Science Engineer with a passion for AI,) Tj
+0 -15 Td
+(programming, and software development. Seeking to contribute) Tj
+0 -15 Td
+(my technical and problem-solving skills to innovative projects,) Tj
+0 -15 Td
+(particularly in AI-driven solutions for defense, healthcare,) Tj
+0 -15 Td
+(and secure communication systems.) Tj
+
+0 -40 Td
+(EDUCATION) Tj
+0 -20 Td
+(B.Tech \(AI\) - Sri Vasavi Engineering College) Tj
+0 -15 Td
+(CGPA: 8.22 \(2021-2025\)) Tj
+0 -20 Td
+(Intermediate - Grade 8.7) Tj
+0 -15 Td
+(10th Grade - Grade 8.3) Tj
+
+0 -40 Td
+(SKILLS) Tj
+0 -20 Td
+(Programming Languages: Java, C, Python) Tj
+0 -15 Td
+(Courses: Data Structures & Algorithms, AI, Machine Learning) Tj
+0 -15 Td
+(Soft Skills: Resilient under pressure, Leadership abilities) Tj
+
+0 -40 Td
+(PROJECTS) Tj
+0 -20 Td
+(Movie Recommendation System \(Hybrid Model\)) Tj
+0 -15 Td
+(Tools: Python, Streamlit, scikit-learn, TMDB API) Tj
+0 -15 Td
+(Algorithms: TF-IDF vectorization, cosine similarity) Tj
+
+0 -40 Td
+(CERTIFICATIONS) Tj
+0 -20 Td
+(- Internet of Things \(NPTEL\)) Tj
+0 -15 Td
+(- MySQL Implementation Certified Associate \(Oracle\)) Tj
+0 -15 Td
+(- Machine Learning \(Udemy\)) Tj
+0 -15 Td
+(- Data Analytics with Python \(NPTEL\)) Tj
+
+0 -40 Td
+(ACHIEVEMENTS) Tj
+0 -20 Td
+(- Top 10 in Avinya Hack Overflow 2K24 \(healthcare hackathon\)) Tj
+0 -15 Td
+(- Participation in SMART India Hackathon \(agriculture\)) Tj
+0 -15 Td
+(- Involvement in technical fests and debates) Tj
+
+ET
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000110 00000 n 
+0000000251 00000 n 
+0000000329 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1455
+%%EOF
